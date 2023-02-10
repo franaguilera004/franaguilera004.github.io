@@ -1,4 +1,6 @@
-# franaguilera004.github.io
+# CentrOlivo
+He realizado la página web de una almazara que vende produtos de aceite de oliva, ademas de realizar eventos y aportar curiosidades sobre su mundo.
+
 He utilizado la etiqueta html :hover, cuando el ratón pasa por encima del lugar donde lo hayas aplicado, este, cambia sus propiedades a las especificadas en el :hover. Es decir:
 img{
 width:20em;
