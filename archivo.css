@@ -1,0 +1,269 @@
+/*CABEZERA*/
+#izquierda {
+    float: left;
+    margin: 10px;
+}
+
+#titulo {
+    float: right;
+    padding-right: 30px;
+    color: beige;
+}
+
+#derecha {
+    float: right;
+    margin: 5px;
+    margin-top: 2.5em;
+    margin-right: 10px;
+}
+
+.enlaces {
+    color: beige;
+    text-decoration: none;
+    font-size: larger;
+}
+
+.enlaceSolo {
+    color: rgb(167, 179, 99);
+    text-decoration: none;
+}
+
+.enlaces:hover {
+    font-size: x-large;
+    transition: all 1s;
+}
+
+.enlaceSolo:hover {
+    font-size: x-large;
+    transition: all 1s;
+}
+
+header {
+    border: 2px solid;
+    height: 7EM;
+    background-color: rgb(73, 94, 57);
+}
+
+/*INICIO*/
+#noticias {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    padding: 1em;
+    width: 85%;
+    height: 5.5em;
+
+}
+
+#noticia1 {
+    float: left;
+    color: beige;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 5.5em;
+    text-decoration: none;
+
+}
+
+body #todo div h2 {
+    text-align: center;
+}
+
+#revistas {
+    margin: 5em;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 20em;
+    padding-top: 1em;
+}
+
+.revista1 {
+    float: left;
+    margin-left: 7em;
+}
+
+
+/*QUIENES SOMOS*/
+#formulario {
+    margin: auto;
+    width: 50%;
+    color: beige;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1em;
+}
+/*FONDOS*/
+#todo {
+    background-image: url(fondo2.jpg);
+    background-attachment: fixed;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    color: beige;
+}
+
+#todo2 {
+    background-image: url(olivo.jpg);
+    padding: 2em;
+    background-attachment: fixed;
+}
+
+.todo3 {
+    background-color: beige;
+    color: rgb(43, 78, 14);
+    padding: 3em;
+    padding-top: 1em;
+}
+/*FOOTER*/
+footer {
+    padding: 1em;
+    background-color: rgb(73, 94, 57);
+    color: beige;
+    height: 6em;
+    clear: both;
+    border: 2px solid black;
+}
+
+#foot1 {
+    float: left;
+    width: 30%;
+    margin-left: 3em;
+
+}
+
+#foot2 {
+    float: left;
+    width: 20%;
+    margin-left: 12em;
+}
+
+#foot3 {
+    float: left;
+    width: 20%;
+    margin-left: 8em;
+}
+
+/*PRODUCTOS*/
+.enlacesP {
+    color: rgb(43, 78, 14);
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.enlacesP:hover {
+    font-size: larger;
+    transition: all 1s;
+}
+
+nav {
+    padding: 1em;
+}
+
+#extra {
+    margin-bottom: 5em;
+}
+
+#virgen {
+    clear: both;
+    margin-bottom: 5em;
+}
+
+#oliva {
+    clear: both;
+    margin-bottom: 5em;
+}
+
+#cosmeticos {
+    clear: both;
+    margin-bottom: 5em;
+}
+
+.aceiteI {
+    float: left;
+    width: 46%;
+    margin: 1.5em;
+    padding: 1em;
+}
+
+.aceiteD {
+    float: right;
+    width: 44%;
+    margin-top: 1em;
+    padding: 1em;
+}
+
+.foto {
+    float: left;
+    margin-right: 1em;
+}
+
+#china {
+    clear: both;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(43, 78, 14);
+}
+
+/*RECETAS*/
+.recetas {
+    padding: 1em;
+    margin: 1em;
+    clear: both;
+    width: 80%;
+}
+
+body div .recetas img {
+    width: 40%;
+    float: left;
+    margin-right: 1em;
+}
+
+body div .recetas img:hover {
+    width: 50%;
+    transition: 1s;
+}
+
+body .todo3 div div img {
+    width: 12em;
+    border: 5px solid;
+
+}
+
+body .todo3 div div img:hover {
+    width: 20em;
+    transition: 1s;
+}
+
+/*+ACEITE*/
+.aceituna {
+    float: left;
+    margin-left: 8em;
+    width: 25em;
+}
+
+body .todo3 div img {
+    width: 25em;
+    border: 3px solid;
+    margin-bottom:1em;
+}
+
+.aceitunas{
+    padding: 1em;
+}
+
+/*EVENTOS*/
+.eventos{
+    padding: 2em;
+    width: 80%;
+    clear: both;
+}
+
+body div .eventos img{
+width: 10em;
+float: left ;
+margin-right: 1em;
+}
+
+body div .eventos a{
+border: 1px solid;
+text-decoration: none;
+color: rgb(43, 78, 14);
+border-radius: 5px;
+padding: 3px;
+}
